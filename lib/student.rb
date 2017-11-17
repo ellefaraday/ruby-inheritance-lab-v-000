@@ -1,4 +1,5 @@
 require_relative "./user.rb"
+attr_reader :knowledge
 
 class Student < User
 
